@@ -8,7 +8,7 @@ created an autoencoders from scratch for dimensionality reduction.
 *Dimensionality Reduction
 
 
-*visualizing higher dimensional data in lower dimension space
+*visualizing higher dimensional data in lower dimensional space
 
 
 *Reducing noise from the data
